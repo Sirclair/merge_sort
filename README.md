@@ -1,5 +1,5 @@
 #merge-sort
-##description
+description
 >Merge Sort is a divide-and-conquer algorithm that splits an array into smaller subarrays, sorts them, and then merges them back together. 
 >It is known for its efficiency and stable sorting.
 #installation
